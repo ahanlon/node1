@@ -13,3 +13,5 @@ var luminosity = function(r, g, b){
 	return 'dark';
 }
 console.log(luminosity( process.argv[2], process.argv[3], process.argv[4]) );
+
+	
